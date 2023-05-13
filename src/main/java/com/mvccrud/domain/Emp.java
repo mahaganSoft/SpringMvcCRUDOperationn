@@ -1,8 +1,10 @@
 package com.mvccrud.domain;
   
 public class Emp {  
-private int id;  
-private String name;  
+private int id;
+
+
+private String name;
 private float salary;  
 private String designation;  
   
