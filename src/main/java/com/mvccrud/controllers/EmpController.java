@@ -11,8 +11,7 @@ import com.mvccrud.domain.Emp;
 import com.mvccrud.dao.EmpDao;
 @Controller  
 public class EmpController {  
-    @Autowired  
-    EmpDao dao;
+    @Autowired EmpDao dao;
 
     @RequestMapping("/empform")  
     public String showform(Model m){  
