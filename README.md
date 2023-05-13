@@ -1,1 +1,22 @@
 # SpringMvcCRUDOperationn
+
+THIS IS PROJECT IS TO ENABLE THE SPRING MVC WEB APPLICATION ALONG WITH CRUD OPERATION 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lAST 
+
+
+
+
