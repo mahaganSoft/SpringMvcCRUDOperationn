@@ -3,7 +3,7 @@ package com.mvccrud.domain;
 public class Customer {
     int custID;
     String custName;
-    int age;
+    int age9;
 
     public Customer(int custID, String custName) {
         this.custID = custID;
