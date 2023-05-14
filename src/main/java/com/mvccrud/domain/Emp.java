@@ -1,6 +1,6 @@
 package com.mvccrud.domain;
   
-public class Emp {  
+public class Emp {
 private int id;
 
 
