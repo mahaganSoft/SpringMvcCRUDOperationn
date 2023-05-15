@@ -12,5 +12,3 @@ public class Test {
         System.out.println("*******************HI Guys Hoe r u**************");
     }
 }
-
-
