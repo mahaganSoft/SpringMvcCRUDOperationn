@@ -9,6 +9,6 @@ package com.mvccrud.test;
 
 public class Test {
     public static void main(String[] args) {
-        System.out.println("*******************HI Guys Hoe r u**************");
+        System.out.println("*******************HI Guys Hoe r u**************");//message printed
     }
 }
